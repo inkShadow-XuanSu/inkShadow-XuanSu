@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > 2. **数学相关** ：**随机过程、矩阵论、高等数学、数学分析、离散数学**。
 > 3. **英语能力** ：**阅读能力 B**。
 > 4. **专业学习内容** ：**C++,OPENGL,神经网络,UE4,STM32,PCB,SOLIDWORKS,**。
-> 5. **知识概览** : 正在进行中。欢迎加入<a href="https://github.com/inkShadow-XuanSu" target="_blank">玄素。xuanSu 's  Github.</a>。
+> 5. **知识概览** : 正在进行中。欢迎加入<a href="https://github.com/inkShadow-XuanSu" target="_blank">None. 's  Github.</a>。
 > 6. **转载须知** ：以下所有文章如非文首说明皆为我（None.）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
 
