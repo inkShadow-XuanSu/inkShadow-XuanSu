@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi ，I'm  None. ! :wave:  
+## Hi ，I'm  Evan Leonaggeo. ! :wave:  
 
 - 🏡 技术博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">None.'s  Github.</a>    
 - 🌱 谷歌邮箱：xxxxxxxx@gmail.com
@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 <!-- 👉 Hi，各位。这里是我（None.）的仓库。为 **“inkShadow Studio （墨影工作室）”** 的成员之一 。-->
 
-👉 Hi，各位。这里是我（None.）的仓库。
+👉 Hi，各位。这里是我（Evan Leonaggeo.）的仓库。
 👉 兴趣和专业方向是**机器人设计与控制、人工智能**，控制工程系研究生。
 
-👉 暂时关于个人的项目被移动到 [None.](https://github.com/inkShadow-XuanSu) 这个仓库。
+👉 暂时关于个人的项目被移动到 [Evan Leonaggeo.](https://github.com/inkShadow-XuanSu) 这个仓库。
 
 
 > 1. **介绍**：如果有任何疑问或者兴趣可以联系我QQ： xxxxxxxx@qq.com。
 > 2. **专业学习内容** ：**C++,机器人,轨迹规划**。
-> 3. **知识概览** : 正在进行中。欢迎加入<a href="https://github.com/inkShadow-XuanSu" target="_blank">None. 's  Github.</a>。
-> 4. **转载须知** ：以下所有文章如非文首说明皆为我（None.）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
+> 3. **知识概览** : 正在进行中。欢迎加入<a href="https://github.com/inkShadow-XuanSu" target="_blank">Evan Leonaggeo. 's  Github.</a>。
+> 4. **转载须知** ：以下所有文章如非文首说明皆为我（Evan Leonaggeo.）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
 
 ##
