@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi ，I'm  Evan Leonaggeo. ! :wave:  
 
-- 🏡 技术博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">None.'s  Github.</a>    
+- 🏡 技术博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">Evan Leonaggeo.'s  Github.</a>    
 - 🌱 谷歌邮箱：xxxxxxxx@gmail.com
 - 💬 QQ邮箱：xxxxxxxx@qq.com
 - 🤔 社区：<a href="https://en.wikipedia.org/wiki/China" target="_blank">China</a>    
