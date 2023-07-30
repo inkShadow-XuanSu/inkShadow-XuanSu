@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 谷歌邮箱：xxxxxxxx@gmail.com
 - 💬 QQ邮箱：xxxxxxxx@qq.com
 - 🤔 社区：<a href="https://en.wikipedia.org/wiki/China" target="_blank">China</a>    
-- ⭐️ 个人博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">None. 's Blog (building)</a>    
+- ⭐️ 个人博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">Evan Leonaggeo. 's Blog </a>    
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Frostbite_logo.svg/660px-Frostbite_logo.svg.png" alt="engie-list-tablet@2x" style="zoom:33%;" wight="220px" height="220px"/>
 
 ##
