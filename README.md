@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ## Hi ，I'm  None. ! :wave:  
 
 - 🏡 技术博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">None.'s  Github.</a>    
-- 🌱 谷歌邮箱：ooooohmygosh.95@gmail.com
-- 💬 QQ邮箱：787982227@qq.com
+- 🌱 谷歌邮箱：xxxxxxxx@gmail.com
+- 💬 QQ邮箱：xxxxxxxx@qq.com
 - 🤔 社区：<a href="https://en.wikipedia.org/wiki/China" target="_blank">China</a>    
 - ⭐️ 个人博客：<a href="https://github.com/inkShadow-XuanSu" target="_blank">None. 's Blog (building)</a>    
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Frostbite_logo.svg/660px-Frostbite_logo.svg.png" alt="engie-list-tablet@2x" style="zoom:33%;" wight="220px" height="220px"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 👉 暂时关于个人的项目被移动到 [None.](https://github.com/inkShadow-XuanSu) 这个仓库。
 
 
-> 1. **介绍**：如果有任何疑问或者兴趣可以联系我QQ： 787982227@qq.com。
+> 1. **介绍**：如果有任何疑问或者兴趣可以联系我QQ： xxxxxxxx@qq.com。
 > 2. **专业学习内容** ：**C++,机器人,轨迹规划**。
 > 3. **知识概览** : 正在进行中。欢迎加入<a href="https://github.com/inkShadow-XuanSu" target="_blank">None. 's  Github.</a>。
 > 4. **转载须知** ：以下所有文章如非文首说明皆为我（None.）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
